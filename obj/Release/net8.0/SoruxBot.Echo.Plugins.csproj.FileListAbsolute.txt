@@ -1,0 +1,12 @@
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\bin\Release\net8.0\SoruxBot.Echo.Plugins.deps.json
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\bin\Release\net8.0\SoruxBot.Echo.Plugins.dll
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\bin\Release\net8.0\SoruxBot.Echo.Plugins.pdb
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\obj\Release\net8.0\SoruxBot.Echo.Plugins.csproj.AssemblyReference.cache
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\obj\Release\net8.0\SoruxBot.Echo.Plugins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\obj\Release\net8.0\SoruxBot.Echo.Plugins.AssemblyInfoInputs.cache
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\obj\Release\net8.0\SoruxBot.Echo.Plugins.AssemblyInfo.cs
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\obj\Release\net8.0\SoruxBot.Echo.Plugins.csproj.CoreCompileInputs.cache
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\obj\Release\net8.0\SoruxBot.Echo.Plugins.dll
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\obj\Release\net8.0\refint\SoruxBot.Echo.Plugins.dll
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\obj\Release\net8.0\SoruxBot.Echo.Plugins.pdb
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\obj\Release\net8.0\ref\SoruxBot.Echo.Plugins.dll

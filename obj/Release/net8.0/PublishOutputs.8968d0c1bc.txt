@@ -1,0 +1,6 @@
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\bin\Release\net8.0\publish\SoruxBot.Echo.Plugins.dll
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\bin\Release\net8.0\publish\SoruxBot.Echo.Plugins.deps.json
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\bin\Release\net8.0\publish\SoruxBot.Echo.Plugins.pdb
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\bin\Release\net8.0\publish\SoruxBot.SDK.dll
+C:\Users\79826\Desktop\SoruxBot-Echo-Plugins-main\SoruxBot-Echo-Plugins-main\SoruxBot.Echo.Plugins\bin\Release\net8.0\publish\SoruxBot.SDK.QQ.dll
